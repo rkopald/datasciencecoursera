@@ -1,0 +1,19 @@
+Trying the Git commands with the CLI 
+
+adding test to this file to see if I can pull it down to my local repo, change it, and push it back to the github repo
+
+THIS TEXT WAS ADDED ON MY PC. 
+I will try to now upload this to my github account.
+
+
+SUCCESS! I was able to make changes locally, and then commit the amende file to my github repo
+
+
+SUCCESS AGAIN! I was able to pull this down from my github account using the following sequence:
+Git fetch
+git init
+git status.. This told me that my branch was behind by 1 commit and and can be fast forwarded (use "git pull" to update your local branch)
+Did git pull
+Showed me the new file! 
+
+Now I am going to try to upload this to my github repo again and see how it goes.
