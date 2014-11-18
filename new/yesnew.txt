@@ -1,1 +1,3 @@
 get on itgit status
+
+Trying to fucking upload to a goddamn repo
